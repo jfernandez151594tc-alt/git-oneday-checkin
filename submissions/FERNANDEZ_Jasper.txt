@@ -1,4 +1,3 @@
-Name: FERNANDEZ, JASPER E.
-Subject code: 1974
-Time: 2:40 PM
-
+Name: SURNAME, Firstname
+Subject code: CS8
+Time: 10:15 AM
